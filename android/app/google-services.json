@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445349492178",
+    "project_id": "umkm-mart-717bc",
+    "storage_bucket": "umkm-mart-717bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445349492178:android:2e1186e409ee091a38440b",
+        "android_client_info": {
+          "package_name": "com.example.umkm_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE2iduy9BimNypNRpDnAT9yvLteKAUlk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
